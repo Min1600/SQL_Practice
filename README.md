@@ -26,7 +26,7 @@ def test_func:
 ```
 ### What I Learned
 Excalmation point plus square bracket with text followed by parentheses with url path to get image
-![Alt Text](img\wallpapersden.com_sad-itachi-uchiha-minimalist-hd-naruto_2184x1200.jpg)
+![Alt Text](img/wallpapersden.com_sad-itachi-uchiha-minimalist-hd-naruto_2184x1200.jpg)
 
 *Italics*
 ### Conclusions#
