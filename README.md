@@ -1,6 +1,6 @@
 # Title
 
-### Introduction
+## Introduction
 Check out this link to project: [project_sql folder](/project_sql/)
 ### Background
 **BOLD**
